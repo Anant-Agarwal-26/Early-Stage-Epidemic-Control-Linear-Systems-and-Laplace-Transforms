@@ -1,8 +1,5 @@
 # Early-Stage-Epidemic-Control-Linear-Systems-and-Laplace-Transforms
 
-
-# Early-Stage Epidemic Control: Linear Systems and Laplace Transforms
-
 ## Overview
 This project investigates the dynamics of an infectious disease outbreak and the impact of delayed quarantine interventions. 
 By restricting the classical SIR epidemiological model to its early-stage linear approximation (where the susceptible population is approximately equal to the total population), the project applies matrix methods and Laplace transforms to mathematically model public health strategies and establish concrete outbreak thresholds. 
